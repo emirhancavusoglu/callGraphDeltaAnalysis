@@ -64,4 +64,3 @@ if __name__ == "__main__":
         print(f"{end_vertex} düğümüne ulaşılamıyor.")
     else:
         print(f"Shortest path between {start_vertex} and {end_vertex}: {' -> '.join(path)}, Length: {distance}")
-
