@@ -1,8 +1,4 @@
-# callGraphProc
-
-
-
-# Call Graph Analysis from Source Code Snapshots
+# Call Graph Delta Analysis and Identification of Security Vulnerabilities with Static Analysis
 
 ## Overview
 
